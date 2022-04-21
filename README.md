@@ -45,7 +45,7 @@ Still a fresher!
 
 <b>Top Repositories</b>
 
-<div width="100%"><a href="https://github.com/rashmiraj513/toDoList-homepage"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rashmiraj513&repo=toDoList-homepage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br><br>
+<div width="100%"><a href="https://github.com/rashmiraj513/toDoList-homepage"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rashmiraj513&repo=toDoList-homepage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <!-- ### Support Me -->
 
