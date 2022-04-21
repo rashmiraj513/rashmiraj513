@@ -1,16 +1,16 @@
-Hi 👋 My name is Rashmi Raj.
+Hi 👋 My name is Rashmi Raj!
 ============================
 
 Still a fresher!
 ----------------
 
 * 🌍  I'm based in Gurdaspur.
-* 🖥️  See my portfolio at [Porfolio](http://rashmiraj513.github.io/rashmiraj513/)
-* ✉️  You can contact me at [rashmiraj7877@gmail.com](mailto:rashmiraj7877@gmail.com)
+* 🖥️  See my portfolio at [Porfolio](http://rashmiraj513.github.io/rashmiraj513/)!
+* ✉️  You can contact me at [rashmiraj7877@gmail.com](mailto:rashmiraj7877@gmail.com)!
 * ⚡  I'm big fan of Darkseid.
 
 <a href="https://www.github.com/rashmiraj513" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rashmiraj513?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/rashmiraj513?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills
 
@@ -28,7 +28,6 @@ src="https://img.shields.io/github/followers/rashmiraj513?logo=github&style=for-
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
-
 
 ### Socials
 
@@ -52,4 +51,4 @@ src="https://img.shields.io/github/followers/rashmiraj513?logo=github&style=for-
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/rashmiraj513"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- <a href="https://www.buymeacoffee.com/rashmiraj513"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
