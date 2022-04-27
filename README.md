@@ -1,6 +1,8 @@
 # Hello, My name is Rashmi Raj!
 
-### Still a fresher!
+## Still a fresher!
+
+<br>
 
 * 🌍  I'm based in Gurdaspur.
 * 🖥️  See my portfolio at [Porfolio](http://rashmiraj513.github.io/rashmiraj513/)!
