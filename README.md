@@ -1,8 +1,6 @@
 Hello, My name is Rashmi Raj!
-============================
 
 Still a fresher!
-----------------
 
 * 🌍  I'm based in Gurdaspur.
 * 🖥️  See my portfolio at [Porfolio](http://rashmiraj513.github.io/rashmiraj513/)!
@@ -49,9 +47,9 @@ Still a fresher!
 <b>Top Repositories</b>
 
 <div width="100%">
-<a href="https://github.com/rashmiraj513/toDoList-homepage"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rashmiraj513&repo=toDoList-homepage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /><a>
-<a href="https://github.com/rashmiraj513/rashmiraj513"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rashmiraj513&repo=toDoList-homepage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /><a>
-<a href="https://github.com/rashmiraj513/competitive-programming"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rashmiraj513&repo=toDoList-homepage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /><a>
+<a href="https://github.com/rashmiraj513/toDoList-homepage"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rashmiraj513&repo=toDoList-homepage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/><a>
+<a href="https://github.com/rashmiraj513/rashmiraj513"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rashmiraj513&repo=rashmiraj513&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /><a>
+<a href="https://github.com/rashmiraj513/competitive-programming"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rashmiraj513&repo=competitive-programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /><a>
 </div>
 
 <!-- ### Support Me -->
